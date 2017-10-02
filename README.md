@@ -1,2 +1,1 @@
-# predicting-nhl-standings
-A PDF of my very first modelling project
+# A Repo of my Projects
